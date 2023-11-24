@@ -3,12 +3,12 @@ import Main from "./pages/Main/Main";
 
 function App() {
   return (
-    <>
-      <Header />
-      <div className="container">
-        <Main />
-      </div>
-    </>
+      <>
+        <Header />
+        <div className="container">
+          <Main />
+        </div>
+      </>
   );
 }
 
